@@ -1,3 +1,5 @@
+﻿## Hola Navas, este es mi respositorio.
+
 # Ejercicio_6
 
 ### Sube captura de pantalla donde muestre todos los comandos que utilizaste. También agrega la URL del repositorio que creaste
@@ -12,3 +14,5 @@
 - Hacer git pull
 - Responder el mensaje del readme.
 - Hacer git push
+
+
